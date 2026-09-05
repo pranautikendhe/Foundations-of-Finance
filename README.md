@@ -1,11 +1,8 @@
 # Foundations of Finance
 
-Topic-wise notes from the **Foundations of Finance** course (1st semester, MSc Finance).
+Topic-wise placeholder files for the **Foundations of Finance** course (1st semester, MSc Finance).
 
-Each topic includes:
-- Key formulas
-- Practice questions
-- Short explanations
+I will add formulas, questions, and explanations topic by topic.
 
 ## Topics Covered
 
